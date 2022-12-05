@@ -8,3 +8,4 @@ console.log((numero1 += numero2));
 
 let x = 12;
 console.log(x);
+ok;
